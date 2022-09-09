@@ -13,7 +13,7 @@ logo: "/assets/images/logo.jpg"
 cover: "/assets/images/cover.jpg"
 
 name: 'Kiwano'
-author: 'Emmanuel Calvet'
+author: 'Kiwano'
 author_image: "/assets/images/kiwano.jpg"
 
 paginate:	5
@@ -21,7 +21,7 @@ paginate:	5
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.kiwano.co
+url: https://github.com/kiwanooo/kiwano.github.io/
 
 
 # If you're hosting your site at a Project repository on GitHub pages
